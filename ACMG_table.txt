@@ -1,0 +1,82 @@
+gene	inheritance	disorder	group
+APC	AD	Familial adenomatous polyposis	cancer
+RET	AD	Familial medullary thyroid cancer/multiple endocrine neoplasia 2	cancer
+BRCA1	AD	Hereditary breast and/or ovarian cancer	cancer
+BRCA2	AD	Hereditary breast and/or ovarian cancer	cancer
+PALB2	AD	Hereditary breast and/or ovarian cancer	cancer
+SDHD	AD	Hereditary paraganglioma-pheochromocytoma syndrome	cancer
+SDHAF2	AD	Hereditary paraganglioma-pheochromocytoma syndrome	cancer
+SDHC	AD	Hereditary paraganglioma-pheochromocytoma syndrome	cancer
+SDHB	AD	Hereditary paraganglioma-pheochromocytoma syndrome	cancer
+MAX	AD	Hereditary paraganglioma-pheochromocytoma syndrome	cancer
+TMEM127	AD	Hereditary paraganglioma-pheochromocytoma syndrome	cancer
+BMPR1A	AD	Juvenile polyposis syndrome	cancer
+SMAD4	AD	Juvenile polyposis syndrome/hereditary hemorrhagic telangiectasia syndrome	cancer
+TP53	AD	Li-Fraumeni syndrome	cancer
+MLH1	AD	Lynch syndrome (hereditary nonpolyposis colorectal cancer)	cancer
+MSH2	AD	Lynch syndrome (hereditary nonpolyposis colorectal cancer)	cancer
+MSH6	AD	Lynch syndrome (hereditary nonpolyposis colorectal cancer)	cancer
+PMS2	AD	Lynch syndrome (hereditary nonpolyposis colorectal cancer)	cancer
+MEN1	AD	Multiple endocrine neoplasia type 1	cancer
+MUTYH	AR	MUTYH-associated polyposis	cancer
+NF2	AD	NF2-related schwannomatosis	cancer
+STK11	AD	Peutz-Jeghers syndrome	cancer
+PTEN	AD	PTEN hamartoma tumor syndrome	cancer
+RB1	AD	Retinoblastoma	cancer
+TSC1	AD	Tuberous sclerosis complex	cancer
+TSC2	AD	Tuberous sclerosis complex	cancer
+VHL	AD	Tuberous sclerosis complex	cancer
+WT1	AD	WT1-related Wilms tumor	cancer
+FBN1	AD	Aortopathies	cardiovascular
+TGFBR1	AD	Aortopathies	cardiovascular
+TGFBR2	AD	Aortopathies	cardiovascular
+SMAD3	AD	Aortopathies	cardiovascular
+ACTA2	AD	Aortopathies	cardiovascular
+MYH11	AD	Aortopathies	cardiovascular
+PKP2	AD	Arrhythmogenic right ventricular cardiomyopathy (a subcategory of arrhythmogenic cardiomyopathy)	cardiovascular
+DSP	AD	Arrhythmogenic right ventricular cardiomyopathy (a subcategory of arrhythmogenic cardiomyopathy)	cardiovascular
+DSC2	AD	Arrhythmogenic right ventricular cardiomyopathy (a subcategory of arrhythmogenic cardiomyopathy)	cardiovascular
+TMEM43	AD	Arrhythmogenic right ventricular cardiomyopathy (a subcategory of arrhythmogenic cardiomyopathy)	cardiovascular
+DSG2	AD	Arrhythmogenic right ventricular cardiomyopathy (a subcategory of arrhythmogenic cardiomyopathy)	cardiovascular
+RYR2	AD	Catecholaminergic polymorphic ventricular tachycardia	cardiovascular
+CASQ2	AR	Catecholaminergic polymorphic ventricular tachycardia	cardiovascular
+TRDN	AR	Catecholaminergic polymorphic ventricular tachycardia	cardiovascular
+TNNT2	AD	DCM = dilated cardiomyopathy	cardiovascular
+LMNA	AD	DCM = dilated cardiomyopathy	cardiovascular
+FLNC	AD	DCM = dilated cardiomyopathy	cardiovascular
+TTN	AD	DCM = dilated cardiomyopathy	cardiovascular
+BAG3	AD	DCM = dilated cardiomyopathy	cardiovascular
+DES	AD	DCM = dilated cardiomyopathy	cardiovascular
+RBM20	AD	DCM = dilated cardiomyopathy	cardiovascular
+TNNC1	AD	DCM = dilated cardiomyopathy	cardiovascular
+COL3A1	AD	Ehlers-Danlos syndrome, vascular type	cardiovascular
+LDLR	SD	Familial hypercholesterolemia	cardiovascular
+APOB	AD	Familial hypercholesterolemia	cardiovascular
+PCSK9	AD	Familial hypercholesterolemia	cardiovascular
+MYH7	AD	HCMg	cardiovascular
+MYBPC3	AD	HCMg	cardiovascular
+TNNI3	AD	HCMg	cardiovascular
+TPM1	AD	HCMg	cardiovascular
+MYL3	AD	HCMg	cardiovascular
+ACTC1	AD	HCMg	cardiovascular
+PRKAG2	AD	HCMg	cardiovascular
+MYL2	AD	HCMg	cardiovascular
+KCNQ1	AD	LQTS types 1 and 2	cardiovascular
+KCNH2	AD	LQTS types 1 and 2	cardiovascular
+SCN5A	AD	LQTS3; Brugada syndrome	cardiovascular
+CALM1	AD	LQTS types 15-16	cardiovascular
+CALM2	AD	LQTS types 15-16	cardiovascular
+CALM3	AD	LQTS types 15-16	cardiovascular
+BTD	AR	Biotinidase deficiency	inborn errors of metabolism
+GLA	XL	Fabry disease	inborn errors of metabolism
+OTC	XL	Ornithine transcarbamylase deficiency	inborn errors of metabolism
+GAA	AR	Pompe disease	inborn errors of metabolism
+HFE	AR	Hereditary hemochromatosis	miscellaneous
+ACVRL1	AD	Hereditary hemorrhagic telangiectasia	miscellaneous
+ENG	AD	Hereditary hemorrhagic telangiectasia	miscellaneous
+RYR1	AD	Malignant hyperthermia	miscellaneous
+CACNA1S	AD	Malignant hyperthermia	miscellaneous
+HNF1A	AD	Maturity-onset of diabetes of the young	miscellaneous
+RPE65	AR	RPE65-related retinopathy	miscellaneous
+ATP7B	AR	Wilson disease	miscellaneous
+TTR	AD	Hereditary TTR amyloidosis	miscellaneous
