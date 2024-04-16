@@ -17,4 +17,8 @@ GnomAD = pd.read_csv('GnomAD_patho.txt.gz',delimiter='\t',compression='gzip')
 ClinInfo = pd.merge(ClinVar,GnomAD,on=['chr','position','ref','allele'],how='left')
 ClinInfo.to_csv('ClinInfo.csv',sep='\t',index=False)
 
+# compress result
+import os
+os.system('gzip ClinInfo.csv')
+
 
