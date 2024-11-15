@@ -1,7 +1,7 @@
 # Objective
 
 The inputs are .vcf files of genetic variants from a whole exome assay where
-we use only the colums with data in this example (ID not used):
+we use only the colums shown here:
 ```
 #CHROM  POS     ID      REF     ALT     QUAL    FILTER  
 chr1    12807   .       C       T       6       PASS   
